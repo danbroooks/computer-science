@@ -110,6 +110,7 @@ Courses | Progress
 
 Courses | Progress
 :-- | :--:
+[Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)| -
 [Automata](https://www.coursera.org/course/automata)| -
 
 ### Software Engineering
