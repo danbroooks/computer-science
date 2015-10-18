@@ -80,7 +80,7 @@ Courses | Progress
 :-- | :--:
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| -
 [Principles of Reactive Programming](https://www.coursera.org/course/reactive)| -
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | -
+[Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)| -
 
 ### Software Testing
 
@@ -103,6 +103,8 @@ Courses | Progress
 :-- | :--:
 [Web Application Architectures](https://www.coursera.org/course/webapplications)| -
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| -
+[Code Refactoring](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)| -
+[Design Patterns](https://www.youtube.com/playlist?list=PLF206E906175C7E07)| -
 
 ### Theory
 
