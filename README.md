@@ -213,7 +213,7 @@ Courses | Progress
 Courses | Progress
 :-- | :--:
 [Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data)| -
-[Data to Insight](https://www.futurelearn.com/courses/data-to-insight)
+[Data to Insight](https://www.futurelearn.com/courses/data-to-insight)| -
 [Pattern Discovery in Data Mining](https://www.coursera.org/course/patterndiscovery)| -
 [Recommender Systems](https://www.coursera.org/learn/recommender-systems)| -
 
