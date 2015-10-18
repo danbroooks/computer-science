@@ -14,20 +14,17 @@
 - [Theory](#theory)
 - [Software Engineering](#software-engineering)
 - [Math (Probability)](#math-probability)
-- [Computer Architecture](#computer-architecture)
-- [Operating Systems](#operating-systems)
+- [Computer Architecture & Operating Systems](#computer-architecture--operating-systems)
 - [Computer Networks](#computer-networks)
 - [Databases](#databases)
 - [Cloud Computing](#cloud-computing)
 - [Math (Linear Algebra)](#math-linear-algebra)
-- [Cryptography](#cryptography)
-- [Security](#security)
+- [Cryptography & Security](#cryptography--security)
 - [Compilers](#compilers)
 - [Parallel Computing](#parallel-computing)
 - [UX Design](#ux-design)
 - [Computer Graphics](#computer-graphics)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Machine Learning](#machine-learning)
+- [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Data (Big Data / Data Mining)](#data-big-data-data-mining)
 - [Internet of Things](#internet-of-things)
@@ -128,17 +125,12 @@ Courses | Progress
 :-- | :--:
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)| -
 
-### Computer Architecture
+### Computer Architecture & Operating Systems
 
 Courses | Progress
 :-- | :--:
 [The Hardware/Software Interface](https://www.coursera.org/course/hwswinterface)| -
 [Computer Architecture](https://www.coursera.org/course/comparch)| -
-
-### Operating Systems
-
-Courses | Progress
-:-- | :--:
 [Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)| -
 [Operating Systems and System Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)| -
 
@@ -167,18 +159,13 @@ Courses | Progress
 :-- | :--:
 [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| -
 
-### Cryptography
+### Cryptography & Security
 
 Courses | Progress
 :-- | :--:
 [Cryptography I](https://www.coursera.org/course/crypto)| -
 [Cryptography II](https://www.coursera.org/course/crypto2)| -
 [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)| -
-
-### Security
-
-Courses | Progress
-:-- | :--:
 [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) | -
 
 ### Compilers
@@ -205,16 +192,11 @@ Courses | Progress
 :-- | :--:
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| -
 
-### Artificial Intelligence
+### Artificial Intelligence & Machine Learning
 
 Courses | Progress
 :-- | :--:
 [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)| -
-
-### Machine Learning
-
-Courses | Progress
-:-- | :--:
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| -
 
 ### Natural Language Processing
