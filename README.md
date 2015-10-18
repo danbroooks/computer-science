@@ -29,8 +29,7 @@
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
-- [Big Data](#big-data)
-- [Data Mining](#data-mining)
+- [Data (Big Data / Data Mining)](#data-big-data-data-mining)
 - [Internet of Things](#internet-of-things)
 
 ---
@@ -224,16 +223,11 @@ Courses | Progress
 :-- | :--:
 [Natural Language Processing](https://www.coursera.org/course/nlp)| -
 
-### Big Data
+### Data (Big Data / Data Mining)
 
 Courses | Progress
 :-- | :--:
 [Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data)| -
-
-### Data Mining
-
-Courses | Progress
-:-- | :--:
 [Pattern Discovery in Data Mining](https://www.coursera.org/course/patterndiscovery)| -
 
 ### Internet of Things
