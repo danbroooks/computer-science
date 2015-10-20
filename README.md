@@ -35,7 +35,7 @@
 
 Courses | Progress
 :-- | :--:
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn#!)| -
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn#!)| Week 1
 
 ### Introduction to Computer Science
 
