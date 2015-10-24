@@ -28,6 +28,7 @@
 - [Natural Language Processing](#natural-language-processing)
 - [Data (Big Data / Data Mining)](#data-big-data-data-mining)
 - [Internet of Things](#internet-of-things)
+- [Extra Curricular](#extra-curricular)
 
 ---
 
@@ -222,3 +223,12 @@ Courses | Progress
 Courses | Progress
 :-- | :--:
 [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)| -
+
+### Extra Curricular
+
+Courses | Progress
+:-- | :--:
+[Learn Spanish with Paul Noble](http://www.amazon.co.uk/Learn-Spanish-Paul-Noble-x/dp/0007363974)| Week 2
+[Learn Spanish: Basic Spanish for English Speakers](https://www.edx.org/course/learn-spanish-basic-spanish-english-upvalenciax-bsp101x)| -
+[Introduction to Sociology](https://www.edx.org/course/introduction-sociology-utpermianbasinx-soci101x) | -
+[The Ethics of Eating](https://www.edx.org/course/ethics-eating-cornellx-phil1440x) | -
