@@ -13,7 +13,7 @@
 - [Software Architecture](#software-architecture)
 - [Theory](#theory)
 - [Software Engineering](#software-engineering)
-- [Math (Probability)](#math-probability)
+- [Math (Probability, Game Theory)](#math-probability-game-theory)
 - [Computer Architecture & Operating Systems](#computer-architecture--operating-systems)
 - [Computer Networks](#computer-networks)
 - [Databases](#databases)
@@ -123,11 +123,12 @@ Courses | Progress
 [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)| -
 [Startup Engineering](https://www.coursera.org/course/startup) | -
 
-### Math (Probability)
+### Math (Probability, Game Theory)
 
 Courses | Progress
 :-- | :--:
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)| -
+[Game Theory](https://www.coursera.org/course/gametheory)| -
 
 ### Computer Architecture & Operating Systems
 
