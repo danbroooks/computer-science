@@ -5,11 +5,11 @@
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
 - [Program Design](#program-design)
-- [Math (Discrete Math)](#math-discrete-math)
+- [Math (Calculus, Discrete Math)](#math-calculus-discrete-math)
 - [Algorithms](#algorithms)
 - [Programming Paradigms](#programming-paradigms)
 - [Software Testing](#software-testing)
-- [Math (Calculus)](#math-calculus)
+- [Math (Multivariable Calculus)](#math-multivariable-calculus)
 - [Software Architecture](#software-architecture)
 - [Theory](#theory)
 - [Software Engineering](#software-engineering)
@@ -61,10 +61,12 @@ Courses | Progress
 [Systematic Program Design- Part 2: Arbitrary Sized Data](https://www.edx.org/course/systematic-program-design-part-2-ubcx-spd2x)| -
 [Systematic Program Design- Part 3: Abstraction, Search and Graphs](https://www.edx.org/course/systematic-program-design-part-3-ubcx-spd3x)| -
 
-### Math (Discrete Math)
+### Math (Calculus, Discrete Math)
 
 Courses | Progress
 :-- | :--:
+[Calculus One](https://www.coursera.org/learn/calculus1)| -
+[Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| -
 [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| -
 
 ### Algorithms
@@ -90,12 +92,10 @@ Courses | Progress
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)| -
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| -
 
-### Math (Calculus)
+### Math (Multivariable Calculus)
 
 Courses | Progress
 :-- | :--:
-[Calculus One](https://www.coursera.org/learn/calculus1)| -
-[Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| -
 [Multivariable Calculus](https://www.coursera.org/course/m2o2c2)| -
 
 ### Software Architecture
