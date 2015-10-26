@@ -65,7 +65,7 @@ Courses | Progress
 
 Courses | Progress
 :-- | :--:
-[Calculus One](https://www.coursera.org/learn/calculus1)| -
+[Calculus One](https://www.coursera.org/learn/calculus1)| Week 2
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| -
 [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| -
 
