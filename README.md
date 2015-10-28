@@ -3,7 +3,7 @@
 
 - [Methodological Learning](#methodological-learning)
 - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Math (Mathematical Thinking)](#math-mathematical-thinking)
+- [Math (Mathematical Thinking, Algebra)](#math-mathematical-thinking-algebra)
 - [Program Design](#program-design)
 - [Math (Calculus, Discrete Math)](#math-calculus-discrete-math)
 - [Algorithms](#algorithms)
@@ -47,11 +47,12 @@ Courses | Progress
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)| -
 [From Nand to Tetris](https://www.coursera.org/course/nand2tetris1) | -
 
-### Math (Mathematical Thinking)
+### Math (Mathematical Thinking, Algebra)
 
 Courses | Progress
 :-- | :--:
 [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | Week 1
+[College Algebra](https://www.udacity.com/course/viewer#!/c-ma008/l-56386196)| Week 1
 
 ### Program Design
 
@@ -63,9 +64,19 @@ Courses | Progress
 
 ### Math (Calculus, Discrete Math)
 
+#### Bookmarks for Precalculus
+
+Links |
+:-- | :--:
+[Pre-Calculus](https://www.coursera.org/course/precalculus) ([Video Links](http://ocw.uci.edu/courses/math_1a1b_precalculus.html))|
+[Pre-University Calculus](https://www.edx.org/course/pre-university-calculus-delftx-calc001x)|
+[Mathematics Describing the Real World: Precalculus and Trigonometry](http://www.thegreatcourses.co.uk/courses/mathematics-describing-the-real-world-precalculus-and-trigonometry.html)|
+[Precalculus YouTube Playlist](https://www.youtube.com/playlist?list=PL4FB17E5C77DCCE69)|
+
 Courses | Progress
 :-- | :--:
-[Calculus One](https://www.coursera.org/learn/calculus1)| Week 2
+[Mathematics Describing the Real World: Precalculus and Trigonometry](http://www.thegreatcourses.co.uk/courses/mathematics-describing-the-real-world-precalculus-and-trigonometry.html)| -
+[Calculus One](https://www.coursera.org/learn/calculus1)| Week 1
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| -
 [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| -
 
