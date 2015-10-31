@@ -51,7 +51,7 @@ Courses | Progress
 
 Courses | Progress
 :-- | :--:
-[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | Week 1
+[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | Week 2
 [College Algebra](https://www.udacity.com/course/viewer#!/c-ma008/l-56386196)| Week 1
 
 ### Program Design
