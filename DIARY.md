@@ -14,3 +14,11 @@ Course | Progress
 :-- | :--:
 Introduction to Computer Science and Programming Using Python | Week 3
 Effective Thinking Through Mathematics | Week 2
+College Algebra | Lesson 1
+
+## Week 3 (02/11/2015)
+
+Course | Progress
+:-- | :--:
+College Algebra | Lesson 2
+Introduction to Computer Science and Programming Using Python | Week 4
